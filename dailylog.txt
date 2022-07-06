@@ -11,5 +11,5 @@
 *Github Full video+ pratice
 *Java 2nd chapter
 *Dbms first chapter
-*Dsa questions of strivers sheet array part 3
+*Dsa questions of strivers sheet array part 3 - 1,2 questions 
 
